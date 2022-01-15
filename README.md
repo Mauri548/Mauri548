@@ -4,7 +4,7 @@
 
 ### I am an enthusiastic programmer who likes to learn
 - 🔭 Now working for [Crenein](https://crenein.com/) in the Frontend
-- 🌱 Inter Onboarding in [Rooftop Academy](https://www.rooftopacademy.com/)
+- 🌱 Inter Onboarding in [Rooftop Academy](https://www.rooftopacademy.com/) in the Frontend
 
 - 📫 How to reach me: mauricioferreyra548@gmail.com
 
